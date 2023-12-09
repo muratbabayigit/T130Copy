@@ -4,4 +4,8 @@ public class P01 {
         int b=256;
         System.out.println("İki Sayının Toplamı: "+(a+b));
     }
+    //git add .
+    //git commit -m "mesajınız"
+    //git push
 }
+
